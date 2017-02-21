@@ -6,6 +6,9 @@ Need to rework the data format the fit FFM, that is to extends LIBSVM data forma
 information to each feature to have formation like:
 	label field1:feat1:val1 field2:feat2:val2
 
+## New Repo Address
+This repo is no longer maintained. We have added FFM-Spark into our new repo [imllib-spark](https://github.com/Intel-bigdata/imllib-spark). Please use the new repo, thanks!
+
 ## Contact & Feedback
 
  If you encounter bugs, feel free to submit an issue or pull request.
